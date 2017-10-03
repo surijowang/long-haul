@@ -1,7 +1,7 @@
 title: Joonhee Kang
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description: Blog
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://surijowang.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
