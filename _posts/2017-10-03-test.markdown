@@ -6,7 +6,7 @@ date:   2017-10-03
 
 <p class="intro"><span class="dropcap">블</span>로그를 시작하기로 했다.</p>
 
-{% highlight python %}
+{% highlight ruby %}
 print("안녕하세요")
 
 {% endhighlight %}
